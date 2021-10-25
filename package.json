@@ -1,0 +1,16 @@
+{
+  "name": "camelcase-keys",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "author": "calvo-jp <calvojp92@gmail.com>",
+  "scripts": {
+    "start": "tsnd --respawn index.ts"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^16.11.4",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  }
+}
