@@ -8,5 +8,5 @@ const data = {
   lastName: 'doe',
 };
 
-camelCaseKeys(data); // { first_name: "john", last_name: "doe" }
+snakeCaseKeys(data); // { first_name: "john", last_name: "doe" }
 ```
